@@ -23,7 +23,9 @@ DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
 
 PRODUCT_KEYWORDS_I:
-- sudo
+-PaloAlto
+-Weblogic
+-sudo
 - docker
 - kubernetes
 - lxc
